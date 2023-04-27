@@ -179,15 +179,6 @@ correct one, the code will come with a big green tick:
         print("Hello World")
 
 
-Teaching this course elsewhere
-------------------------------
-
-The course of which this book forms the text has been given to master's
-students at the University of Oxford, as well as to undergraduate students at
-Imperial College London. Instructors are welcome to use this material to teach
-elsewhere, and are encouraged to contact the author for assistance with access
-to materials.
-
 Acknowledgements
 ----------------
 

@@ -140,7 +140,7 @@ Python concept of type goes much further, as we discover if we call
 
 So `1` is an object of type :class:`int`, which means that it comes with all of
 Python's operations for integer arithmetic. :func:`abs`, on the other hand,
-is a :doc:`built-in function <library/functions>`, so its defining operation is that it can be
+is a :doc:`built-in function <python:library/functions>`, so its defining operation is that it can be
 called on one or more suitable arguments (for example `abs(1)`). If
 every object has a type, what about types themselves? What is the type
 of `int`?
@@ -185,11 +185,9 @@ Defining new types
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b70b944d-612c-4e57-9538-af8d01031342>`__
 
 Python has a rich set of :doc:`built-in types
-<library/stdtypes>`. These form powerful building blocks for the
+<python:library/stdtypes>`. These form powerful building blocks for the
 language, but one very soon finds mathematical abstractions which do
 not have implementations among the built-in types of the Python
 interpreter. For example, the built-in types do not include a matrix
@@ -329,8 +327,6 @@ Methods
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3a56e5f-2ed4-4417-aaf8-ae1c00da6017>`__
 
 We have already met the :term:`special method` :meth:`~object.__init__`,
 which defines the class constructor. A much more typical case is an
@@ -386,8 +382,6 @@ String representations of objects
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4fe0252a-619d-4959-99f0-ae1c00da657d>`__
 
 
 Remember that a key reason for defining new classes is to enable users
@@ -500,8 +494,6 @@ Object equality
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=17aa405c-bf70-4007-b365-ae1c00da7976>`__
 
 When are two objects equal? For built-in types Python has equality rules which
 broadly match the mathematical identities that you might expect. For example,
@@ -599,8 +591,6 @@ Defining arithmetic options on objects
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d9a38b7e-d182-46f6-90fc-ae1c00da8682>`__
 
 It's all very well to be able to compare our polynomial objects, but
 we won't really have captured the mathematical abstraction involved

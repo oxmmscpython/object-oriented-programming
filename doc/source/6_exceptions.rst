@@ -10,8 +10,6 @@ Errors and exceptions
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9c437655-106e-47d2-85d4-ae1c00db1ca7>`__.
 
 
 
@@ -174,7 +172,7 @@ of exception built in. For example, if we attempt to access the number
 The exception type provides some indication as
 to what has gone wrong, and there is usually also an error message and
 sometimes more data to help diagnose the problem. The :doc:`full list
-of built-in exceptions <library/exceptions>` is available in the
+of built-in exceptions <python:library/exceptions>` is available in the
 Python documentation. Python developers can define their own
 exceptions so there are many more defined in third-party packages. We will
 turn to the subject of defining new exception classes in
@@ -189,8 +187,6 @@ Tracebacks: finding errors
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55886da2-963f-43c3-9dc2-ae1c00db2513>`__.
 
 
 The errors we have looked at so far have all been located in the top
@@ -261,8 +257,6 @@ The call stack
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f4fc8938-8e22-47bb-ac78-ae1c00db2e41>`__.
 
 A Python program is a sequence of Python statements, which are
 executed in a sequence determined by the flow control logic of the
@@ -380,8 +374,6 @@ Raising exceptions
 
     .. only:: html
     
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fe0a11e0-4600-4578-9207-ae1c00db3aa1>`__.
 
 
 Thus far we've noticed that an exception occurs when something goes
@@ -505,8 +497,6 @@ Handling exceptions
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1dfd1930-5b27-4858-8fd1-ae1c00db4473>`__.
 
 
 So far we have seen several different sorts of exception, how to raise them,
@@ -604,8 +594,6 @@ Except clauses
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4819cfe6-2743-4ed2-986e-af8e00c2198a>`__.
 
 Let's look in a little more detail at how :keyword:`except` works. The full
 version of the except statement takes a tuple of exception classes. If an

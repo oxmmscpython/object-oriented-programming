@@ -171,8 +171,6 @@ Using a graphical debugger
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=92987237-7c72-40e9-9efb-ae1c00db7b56>`__.
 
 Describing the use of a graphical debugger in text is problematic for at least
 two reasons. First, the details of the integration of a debugger into an
@@ -305,8 +303,6 @@ Invoking a command-line debugger
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0270b15b-005f-4223-a45b-ae1c00db89d6>`__.
 
 A command-line debugger, by its very nature, is somewhat easier to explain in
 text than is a graphical debugger. Command-line debuggers are both stand-alone
@@ -585,8 +581,6 @@ Debugging tactics
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=89203c0c-3861-4a22-906b-afb80103be6d>`__.
 
 
 .. _debugging-mfe:
