@@ -43,8 +43,6 @@ Stacks
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f2b4baee-2ac5-451b-9350-ae1c00daa3e4>`__.
 
 
 Possibly the simplest abstract data type which is not synonymous with
@@ -242,8 +240,6 @@ Algorithmic complexity
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0c382e0b-3465-4f16-8308-ae1c00dab41d>`__.
 
 
 The second reason that understanding abstract data types is important
@@ -461,8 +457,6 @@ Queues and deques
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=05b99982-86bd-4213-870b-ae1c00daf983>`__.
 
 
 A :term:`queue` is, like a :term:`stack`, an ordered sequence of
@@ -520,8 +514,6 @@ Linked lists
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4d0c6160-377f-477a-8948-ae1c00db015e>`__.
 
 One disadvantage of a deque (and hence of a stack or queue) is that inserting an
 object into the middle of the sequence is often an :math:`O(n)` operation,
@@ -594,8 +586,6 @@ The iterator protocol
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f1a99980-6326-4905-a761-ae1c00db0d50>`__.
 
 
 The abstract data types we have considered here are collections of
@@ -839,7 +829,7 @@ Exercises
 .. only:: not book
 
     Using the information on the `book website 
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+    <https://oxmmscpython.github.io/exercises.html>`__
     obtain the skeleton code for these exercises. You will also need to install
     the pytest-timeout package.
 
@@ -963,5 +953,5 @@ Exercises
 
 .. rubric:: Footnotes
 
-.. [#exercise_page] `https://object-oriented-python.github.io/edition2/exercises.html
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+.. [#exercise_page] `https://oxmmscpython.github.io/exercises.html
+    <https://oxmmscpython.github.io/exercises.html>`__

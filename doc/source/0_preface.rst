@@ -78,7 +78,11 @@ the sort of basic Python usually covered in a first programming or
 computational methods course. In particular the reader will be assumed to be
 familiar with writing functions, variable assignments, loops, and list
 comprehensions. The reader is also assumed to have used numeric and string data
-values, as well as dictionaries, sets, lists, and tuples.
+values, as well as dictionaries, sets, lists, and tuples. If you are not familiar with
+the Python language itself, a good primer is available at:
+
+    `https://docs.python.org/3/tutorial/introduction.html
+    <https://docs.python.org/3/tutorial/introduction.html>`__
 
 Many introductory Python courses exclusively use Jupyter notebooks, so nothing
 beyond that is assumed. Getting set up with a working Python installation is
@@ -141,8 +145,8 @@ correct responses to a range of inputs. Tests like this provide immediate
 feedback and enable you to know how you are doing. Links to the skeleton code
 for each chapter are provided at:
 
-        `https://object-oriented-python.github.io/edition2/exercises.html
-        <https://object-oriented-python.github.io/edition2/exercises.html>`__
+        `https://oxmmscpython.github.io/exercises.html
+        <https://oxmmscpython.github.io/exercises.html>`__
 
 
 Conventions employed
@@ -178,15 +182,6 @@ correct one, the code will come with a big green tick:
 
         print("Hello World")
 
-
-Teaching this course elsewhere
-------------------------------
-
-The course of which this book forms the text has been given to master's
-students at the University of Oxford, as well as to undergraduate students at
-Imperial College London. Instructors are welcome to use this material to teach
-elsewhere, and are encouraged to contact the author for assistance with access
-to materials.
 
 Acknowledgements
 ----------------

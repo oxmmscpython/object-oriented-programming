@@ -9,8 +9,6 @@ Inheritance and composition
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b40b76c6-ba53-4e0f-84e9-ae1c00db5322>`__.
 
 
 A key feature of abstractions is :term:`composability <composition>`: the
@@ -107,8 +105,6 @@ An example from group theory
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1110c00a-dba2-4d7b-895a-ae1c00db630f>`__.
 
 
 In order to illustrate how composition and inheritance work, let's suppose that
@@ -304,8 +300,6 @@ General linear groups
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=14c473ff-f126-4348-b6d5-ae1c00db6c07>`__.
 
 
 We still haven't encountered inheritance, though. Where does that come into the
@@ -671,7 +665,7 @@ Creating new exception classes
 
 Python provides a wide range of :term:`exceptions <exception>`, and usually the
 right thing to do when writing code that might need to raise an exception is to
-peruse the :doc:`list of built-in exceptions <library/exceptions>` and choose
+peruse the :doc:`list of built-in exceptions <python:library/exceptions>` and choose
 the one which best matches the circumstances. However, sometimes there is no
 good match, or it might be that the programmer wants user code to be able to
 catch exactly this exception without the risk that some other operation will
@@ -778,7 +772,7 @@ Exercises
 .. only:: not book
 
     Using the information on the `book website 
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+    <https://oxmmscpython.github.io/exercises.html>`__
     obtain the skeleton code for these exercises.
 
 .. only:: book
@@ -866,5 +860,5 @@ Exercises
 
 .. rubric:: Footnotes
 
-.. [#exercise_page] `https://object-oriented-python.github.io/edition2/exercises.html
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+.. [#exercise_page] `https://oxmmscpython.github.io/exercises.html
+    <https://oxmmscpython.github.io/exercises.html>`__

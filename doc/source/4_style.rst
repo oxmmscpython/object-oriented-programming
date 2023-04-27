@@ -9,8 +9,6 @@ A matter of style
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=81bda525-60bb-46a7-bdc9-ae1c00da8a74>`__
 
 
 The value of convention
@@ -110,8 +108,6 @@ Linters
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=63c09ddd-ec18-4746-b1b9-ae1c00da9680>`__
 
 
 One of the helpful characteristics of PEP 8 is that many of its strictures can
@@ -1258,7 +1254,7 @@ Exercises
 
     The skeleton code on GitHub for this chapter's exercises contains a package
     :mod:`life` which implements Conway's Game of Life. Using the information on the `book website 
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+    <https://oxmmscpython.github.io/exercises.html>`__
     obtain the skeleton code for these exercises. Clone the repository into
     your working folder and install the package in editable mode.
 
@@ -1390,5 +1386,5 @@ six oscillating blinkers:
           users. However the PEPs having to do with style have wider
           significance.
 
-.. [#exercise_page] `https://object-oriented-python.github.io/edition2/exercises.html
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+.. [#exercise_page] `https://oxmmscpython.github.io/exercises.html
+    <https://oxmmscpython.github.io/exercises.html>`__

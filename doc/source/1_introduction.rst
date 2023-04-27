@@ -131,7 +131,6 @@ Setting up a Python virtual environment
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d63e1c6e-18ff-48de-af03-ae1c00da3b3f>`__
 
 In the course of the exercises, You're going to create, edit, and install a
 whole bunch of Python packages. It's highly desirable have a predictable
@@ -285,7 +284,7 @@ for the correct activation command.
     .. only:: not book
 
         For further information, see :doc:`the official Python venv documentation
-        <library/venv>`.
+        <python:library/venv>`.
 
     .. only:: book
 

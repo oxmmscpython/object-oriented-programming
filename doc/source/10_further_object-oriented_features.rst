@@ -16,8 +16,6 @@ Decorators
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=75d2f2a5-5ab9-464b-8eee-ae1c00dbf366>`__.
 
 
 In :numref:`Chapter %s <trees>` we encountered the
@@ -209,8 +207,6 @@ Abstract base classes
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9a9b872a-9499-40b7-a228-ae1c00dbf947>`__.
 
 We have now on several occasions encountered classes which are not designed to
 be instantiated themselves, but merely serve as parent classes to concrete
@@ -388,8 +384,6 @@ Virtual subclasses
 
     .. only:: html
 
-        Imperial students can also `watch this video on Panopto
-        <https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fd48b1c1-8e81-4c6d-8415-ae1c00dc07eb>`__.
 
 We learned in :numref:`Chapter %s <objects>` that we can determine if a type is a
 number by checking if it is an instance of :class:`numbers.Number`. This is a
@@ -570,7 +564,7 @@ Exercises
 .. only:: not book
 
     Using the information on the `book website 
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+    <https://oxmmscpython.github.io/exercises.html>`__
     obtain the skeleton code for these exercises.
 
 .. only:: book
@@ -613,5 +607,5 @@ Exercises
     in Python, so diving in and reading the source code is often an option if
     you really want to know how some part of the language works.
 
-.. [#exercise_page] `https://object-oriented-python.github.io/edition2/exercises.html
-    <https://object-oriented-python.github.io/edition2/exercises.html>`__
+.. [#exercise_page] `https://oxmmscpython.github.io/exercises.html
+    <https://oxmmscpython.github.io/exercises.html>`__
