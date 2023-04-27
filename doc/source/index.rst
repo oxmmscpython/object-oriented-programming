@@ -20,8 +20,51 @@
 
 .. only:: html
 
-   Welcome to the website for the book Object-oriented Programming in Python
-   for Mathematicians. Here you'll find the full hyperlinked book text, as well
+This is the online textbook for the Oxford course on Python in Scientific
+Computing, offered to MSc students on the MSc in Mathematical Modelling and
+Scientific Computing, and to DPhil students. The lecturer for this course
+is `Patrick E. Farrell <https://pefarrell.org>`_. Please address all
+questions about the course to Prof. Farrell.
+
+This course is a fork of the MATH50009 Principles of Programming course
+prepared by `David A. Ham <https://www.imperial.ac.uk/people/david.ham>`_,
+offered to mathematics undergraduates at
+Imperial College London. Prof. Farrell is very grateful to Dr Ham for his kind and
+generous assistance in this matter. The videos recorded by Dr Ham sometimes refer to Imperial-specific
+matters such as assessments; please ignore these.
+
+The Imperial term is longer than the Oxford one (which is only 8 weeks long).
+Oxford students should therefore read the chapters and do the exercises
+in the following weeks:
+
+.. list-table:: Chapters per week
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Week of term
+     - Chapters
+   * - Week 1
+     - Chapters 1 and 2
+   * - Week 2
+     - Chapter 3
+   * - Week 3
+     - Chapter 4
+   * - Week 4
+     - Chapter 5
+   * - Week 5
+     - Chapter 6
+   * - Week 6
+     - Chapter 7
+   * - Week 7
+     - Chapter 8
+   * - Week 8
+     - Chapter 9
+
+Please read the introductory chapter for more information on how to
+go about doing the course.
+
+   This website builds on the book Object-oriented Programming in Python
+   for Mathematicians, written by Dr Ham. Here you'll find the full hyperlinked book text, as well
    as consolidated lists of the accompanying :doc:`videos <videos>` and
    :doc:`exercise repositories <exercises>`.
 
@@ -54,7 +97,7 @@
    7_inheritance.rst
    8_debugging.rst
    9_trees_and_directed_acyclic_graphs.rst
-   10_further_object-oriented_features.rst
+   11_appendix.rst
    
 .. raw:: latex
 
